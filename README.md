@@ -3,7 +3,7 @@ Find the ID from the genius of the artist
 
 ## Install it
 `pip install requests`<br/>
-`pip install json`<br/>\
+`pip install json`<br/>
 
 ## Status
 Project is: _finished_
